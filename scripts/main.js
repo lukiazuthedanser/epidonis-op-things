@@ -1,0 +1,2 @@
+require("serpulo");
+require("checkUpdate");
